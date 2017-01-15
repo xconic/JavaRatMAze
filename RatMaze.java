@@ -1,4 +1,6 @@
 /**
+ *
+ *  
  * @version 1.0.0.0
  */
 // Assignment:G2
@@ -12,6 +14,7 @@ import com.jogamp.opengl.*;
 
 
 /**
+ *
  *
  * @extends Frame
  * @implements GLEventListener, KeyListener
